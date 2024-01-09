@@ -1,0 +1,49 @@
+/* header related styles */
+.banner{
+    
+    height: 800px;
+    padding: 20px 20px;
+    margin: 130px 130px;
+    background-image: url('./images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    align-items: center;
+   
+    
+    
+    
+}
+.banner-greeting{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 330px;
+/* padding: 177px 531px 383px 530px; */
+}
+.banner-title{
+    height: 500px;
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900px;
+
+
+}
+
+    
+
+
+
+
+
+
+
+
+
