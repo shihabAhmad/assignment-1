@@ -1,7 +1,8 @@
 /* header related styles */
 .banner{
-    
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
     height: 800px;
+    position: relative;
     padding: 20px 20px;
     margin: 130px 130px;
     background-image: url('./images/Banner\ Image.png');
@@ -13,29 +14,70 @@
     
     
     
+    
 }
 .banner-greeting{
-    color: #FFF;
+color: rgb(255, 255, 255);
 text-align: center;
 font-family: Merriweather;
-font-size: 32px;
+font-size: 42px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
 margin-top: 330px;
-/* padding: 177px 531px 383px 530px; */
+
 }
 .banner-title{
     height: 500px;
-    color: #FFF;
+    color: #f8f8f8;
 text-align: center;
 font-family: Merriweather;
 font-size: 72px;
 font-style: normal;
 font-weight: 900px;
-
-
 }
+/* main section styles */
+.offer{
+    padding: 130px;
+    background: #FFF;
+    width: 1600px;
+    height: 7335px;
+}
+.offer-title{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.deals{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.category{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.newPhoto{
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    margin: 0px 398px 0px;
+}
+
+
 
     
 
